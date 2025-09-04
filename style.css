@@ -1,0 +1,40 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    color: burlywood;
+}
+
+h1{
+    color: coral;
+    margin-bottom: 30px;
+}
+
+#contador{
+    font-size: 4rem;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+button{
+    background-color: black;
+    color: azure;
+    border: none;
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button:hover{
+    background-color: brown;
+    box-shadow: 8px 8px 8px black;
+
+
+#diminuir{
+    margin-top: 10px;
+    padding: 10px;
+}
